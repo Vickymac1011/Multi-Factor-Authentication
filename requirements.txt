@@ -1,4 +1,4 @@
 pyotp
 pyqrcode
 pillow
-tkinter
+tkintertable
